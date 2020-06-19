@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "951992208079",
+    "firebase_url": "https://sasspass-5a053.firebaseio.com",
+    "project_id": "sasspass-5a053",
+    "storage_bucket": "sasspass-5a053.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951992208079:android:ed8e7e86579c32821445ba",
+        "android_client_info": {
+          "package_name": "com.singularity.sasspass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951992208079-vksekfijecihhgsd8esq9v31evpu6lsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.singularity.sasspass",
+            "certificate_hash": "808793e27c8e4d8e6b9ac949a90852de7df3f55c"
+          }
+        },
+        {
+          "client_id": "951992208079-dgrjm6njkvus9ofe7qi94091lt8fh9r1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSwX1RzNgRjaeLwtn3JY1hqDVKMBzvHaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951992208079-dgrjm6njkvus9ofe7qi94091lt8fh9r1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
